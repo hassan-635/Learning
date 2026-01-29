@@ -6,10 +6,10 @@
 
 ## 📑 Index of Technologies
 
-| Technology | Category | Status | Notes |
+| Technology | Category | Notes |
 | :--- | :--- | :--- | :--- |
-| **TypeScript** | Language | *In Progress* | Exploring strict typing and interfaces. |
-| **Markdown** | Documentation | *Mastered* | Used for this very repository. |
+| **TypeScript** | Language | Exploring strict typing and interfaces. |
+| **Markdown** | Documentation | Used for this very repository. |
 
 
 ---
