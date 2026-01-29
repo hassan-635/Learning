@@ -1,8 +1,8 @@
-//primitive datatypes ( number, string boolean)
-let a:number = 10;
-let b:string = "hello";
-let c:boolean = true;
-console.log(a,b,c);
+// Primitive datatypes (number, string, boolean)
+const a: number = 10;
+const b: string = "hello";
+const c: boolean = true;
+console.log(a, b, c);
 
 //non-primitive datatypes (array, object)
 let arr:number[] = [1,2,3,4,5];

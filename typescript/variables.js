@@ -1,4 +1,4 @@
-//primitive datatypes ( number, string boolean)
+// Primitive datatypes (number, string, boolean)
 var a = 10;
 var b = "hello";
 var c = true;
