@@ -1,21 +1,21 @@
 # 🏛️ The Knowledge Repository
 
-> *"Live as if you were to die tomorrow. Learn as if you were to live forever."* — Mahatma Gandhi
+> *"With faith, discipline and selfless devotion to duty, there is nothing worthwhile that you cannot achieve."* — Quaid-e-Azam Muhammad Ali Jinnah
 
 ---
 
-## 📑 Index of Technologies
+## � Manifesto
 
-| Technology | Category | Notes |
-| :--- | :--- | :--- | :--- |
-| **TypeScript** | Language | Exploring strict typing and interfaces. |
-| **Markdown** | Documentation | Used for this very repository. |
+This repository serves as a permanent archive of my technical journey. It is a living collection of code, notes, and experiments across various domains.
 
+## 🗂️ Structure
+
+The repository is organized by technology and topic. Each directory represents a distinct area of study.
+
+*   **Languages**: Workspaces for specific programming languages.
+*   **Frameworks**: Experiments with libraries and tools.
+*   **Concepts**: Implementations of algorithms and design patterns.
+
+*Navigate the file tree to explore specific workspaces.*
 
 ---
-
-## 📂 Projects Directory
-
-- [**TypeScript Experiments**](./typescript/) - *A collection of scripts and types.*
-
-
